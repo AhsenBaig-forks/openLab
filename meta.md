@@ -154,7 +154,56 @@ Here are links to lists I wrote up for my amazon associates page. As of 2025 Feb
 * Pneumatics
   * [pneumatics list amazon](https://www.amazon.com/shop/davidmalawey/list/15M90MC04G6B3?ref_=cm_sw_r_cp_ud_aipsflist_SQBNSQQTA4BB96E7T7Y4)
 
+
 _A few images from my "collections" posted on Amazon._
 - ![preview of amazon lists](img/img_amazonLists.jpg)
 - ![amazon list for DIN parts](img/img_amazonDIN.jpg)
 - ![amazon list for abrasives](img/img_amazonAbrasives.jpg)
+
+## Research
+
+2026.05 I am beginning this section to include the research I gather for lab machines, supplies, or narrow topics that recurringly appear.  We can start with the guides found in the wild.  Beginners see distributors like McMaster and AutomationDirect as stores, but experts use them as research partners.  The effort required for AutomationDirect (AD) to choose its inventory is the same effort we need to understand the tools & parts we need.  The difference is, AD hires whole groups of engineers to build an understanding of the applications of the customers (you and me) to succesfully stock the parts we need.  In that process the distributor builds an expertise that's often deeper than the customer.  I may need to buy screwdrivers four times and but they are selling units perpetually and to customers who are building critical infrastructure in our civilization.  Let's discover which distributors are experts in each area and leverage their big brains to gather knowledge for free.
+
+_Below, samples from catalogs left to right: markal's table of paint marker applications.  CRC company's recommended flow chart for choosing electrical spray cleaners.  And a portion of the filament properties from eSun's brochure._
+- ![markers catalog snip](img/catalog_markers.jpg)
+- ![catalog of electrical cleaners](img/catalog_cleaners.jpg)
+- ![catalog of filaments](img/catalog_filament.jpg)
+
+### Brochures
+Brochures are more light reading and less technical than catalogs.  The brochure will span more product spaces by one manufacturer or one brand. These documents help in the discovery phase of finding solutions for a buyer who has not yet decided on a technical solution but has a technical problem.  I open up brochures when it's my first time choosing a product that also has a family of attachments or whole categories of alternate methods.  The load securement catalog, for example, is where I browsed in search of a high quality ratchet strat but I understood there may be an entirely different tie-down method that suits my needs better.  Brochures also show us how much of a brand's total product line was made available at my distributor.  Ideally, Grainger would offer all of the different tie-down parts from a manufacturer but in reality they only offer a few percent, sometimes.  This comparison gives us more understanding of both the distributor and the manufacturer.  We could learn that Grainger is a poor choice to shop for a particular product range or we could learn that zip ties are actually one of ten sophisticated methods to secure cables and we have never seen the nine others before.
+
+* Get the [Strut Channels Brochure](https://github.com/davidmalawey/openLab/blob/main/docs/brochure_superstrut_2025.pdf) by Superstrut, 2025
+* Get the [Mini Switches Brochure](https://github.com/davidmalawey/openLab/blob/main/docs/brochure_miniSwitch_2026.pdf) by Omron, 2026
+* Get the [eTrack Brochure](https://github.com/davidmalawey/openLab/blob/main/docs/brochure_eTrack_2025.pdf) by SnapLoc, 2025
+* Get the [PTFE laminate materials Brochure](https://github.com/davidmalawey/openLab/blob/main/docs/brochure_laminatedPTFE_2024.pdf) by Chemfab, 2024
+* Get the [Medical Tapes Brochure](https://github.com/davidmalawey/openLab/blob/ff0889a6b8463d73fa7c939f2e1ecae517afb54b/docs/brochure_medicalTapes_2026.pdf) by 3M medical group, 2026
+
+### Catalogs
+Catalogs are grouped by one distributor or more often one manufacturer.  Since the manufacturer's interest is to span all variations of a space, the catalog from one manufacturer should inform us of the full span of technical variations in that space.  I usually try to find the catalog of the longest-standing or highest-reputation manufacturer for a product category, then use that catalog to interpret the offerings of other competitors in that space.  Give some extra admiration to the manufacturer who offers a catalog with technical data because they are the ones who create transparency behind the marketing claims of their own products, ultimately raising the standard for the customer's expectations for products to meet specifications and marketing claims.  Once one manufacturer publishes a strong catalog then it impacts the whole market, gradually sifting the fakers out from the real value creators.
+
+* Get the [Filament Properties Catalog](https://github.com/davidmalawey/openLab/blob/main/docs/catalog_filamentProperties_2021.pdf) by BCN3D, 2021
+* Get the [FDM Filament Catalog](https://github.com/davidmalawey/openLab/blob/main/docs/catalog_eSunFilaments_2024.pdf) by eSun, 2024
+* Get the [Clamping Catalog](https://github.com/davidmalawey/openLab/blob/main/docs/catalog_clampingPanavise_2025.pdf) by Panavise, 2025
+* Get the [Cable Tie Catalog](https://github.com/davidmalawey/openLab/blob/main/docs/catalog_cableTies_2024.pdf) by Panduit, 2024
+* Get the [Sanding & Buffing Catalog](https://github.com/davidmalawey/openLab/blob/main/docs/catalog_sandingBuffing_2023.pdf) by 3M, 2023
+* Get the [Pipe Clamp Catalog](https://github.com/davidmalawey/openLab/blob/main/docs/catalog_pipeClamps_2023.pdf) by Bessey, 2023
+* Get the [Markers Catalog](https://github.com/davidmalawey/openLab/blob/main/docs/catalog_markers_2023.pdf) by Markal, 2023
+* Get the [Spray Fluids Catalog](https://github.com/davidmalawey/openLab/blob/main/docs/catalog_maintenanceFluids_2026.pdf) by CRC, 2026
+* Get the [Load Securement Catalog](https://github.com/davidmalawey/openLab/blob/566645cef1793255f625b3cd07c12a1c1bb3b1db/docs/catalog_loadSecurement_2025.pdf) by Erikson, 2025
+* Get the [Strut Channel Catalog](https://github.com/davidmalawey/openLab/blob/ff0889a6b8463d73fa7c939f2e1ecae517afb54b/docs/catalog_superstrut_2024.pdf) by Superstrut, 2024
+* Get the [Proto Tools Catalog Part1](https://github.com/davidmalawey/openLab/blob/919601fa3703162f8c1186ced5626623a3281271/docs/catalog_protoToolsP1_2026.pdf) by Proto Tools, 2026 (with tool chests)
+* Get the [Proto Tools Catalog Part2](https://github.com/davidmalawey/openLab/blob/919601fa3703162f8c1186ced5626623a3281271/docs/catalog_protoToolsP2_2026.pdf) by Proto Tools, 2026 (with socket tracks)
+
+### Guides
+Guides are focused on the products combined with an application.  If an engineering student is building a robot with sensors and actuators she might find herself for the first time seeking a cable that can carry signals from the microcontroller to the sensor across the system.  For her first sourcing activity for a cable, she is simultaneously shopping and designing.  For the starting point, she needs a cable that performs the same as the jumper wires on her breadboard, but it is one meter longer now and needs to fit neatly through a port in an enclosure wall and nest in a channel in her machine.  That cable selection requires her to discover what cable types are available and also discover what requirements she didn't yet consider.  The guide for cable design is the one-stop booklet for her to find parts and understand technical requirements, plus refine the budget for materials.  The guide is an intentional expert advice published by a manufacturer or distributor for technical learning.  
+
+* Get the [Automation Tools guide](https://github.com/davidmalawey/openLab/blob/ff0889a6b8463d73fa7c939f2e1ecae517afb54b/docs/2026_guide_screwdrivers.pdf) authored by AutomationDirect
+* Get the [Wiring Design Guide](https://github.com/davidmalawey/openLab/blob/main/docs/guide_cableDesign_2018.pdf) by Alphawire, cable and connector manufacturer,
+* Get the [Cable Design Guide 2021](https://github.com/davidmalawey/openLab/blob/main/docs/guide_cableDesign_2018.pdf) from Panduit
+* Get the [Bearing Technical Guide](https://github.com/davidmalawey/openLab/blob/main/docs/guide_bearings_2024.pdf) from Koyo
+* Get the [Switch Integration Guide](https://github.com/davidmalawey/openLab/blob/main/docs/guide_switchIntegration_2026.pdf) from Honeywell, 2026
+* Get the [Screwdriver Products Guide](https://github.com/davidmalawey/openLab/blob/main/docs/guide_screwdrivers_2026.pdf) from AutomationDirect
+* Get the [Automation Tools guide](https://github.com/davidmalawey/openLab/blob/main/docs/guide_screwdrivers_2026.pdf) authored by AutomationDirect
+
+_below, find a diagram guiding your bearing selections by Koyo, from their guide_
+![image of bearing selection guide from Koyo](img/guide_bearings.jpg)

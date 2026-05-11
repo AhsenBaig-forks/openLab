@@ -1,16 +1,5 @@
 This page is for tools & supplies used in the lab, which meet expectations & are recommended for other makers.  Treat this page as an index of parts while the Lab Tour shows how the parts are arranged in the lab and integrated into processes.
 
-**Full Access**
-
-We want users to have access to exactly the devices & supplies we use in our projects.  In the early stage of this project, I will post documents which contain collections of tools & devices that make up the lab.  In time I hope to raise the accessibility so you can find a specific product label simply with the search function on this page. 
-
-* Get [Tools_Scans_2025](https://github.com/davidmalawey/openLab/blob/a23478e580b18ce3051be14c0ce91f3598161505/docs/2025.06_tools_scans.pdf) PDF
-  * Contains 36 pages of tools labels
-* Get [Tools Scans 2024](https://github.com/davidmalawey/openLab/blob/a23478e580b18ce3051be14c0ce91f3598161505/docs/2024_tools_scans.pdf) PDF
-  * Contains 48 pages of tools
-* Keywords: (important tools to be listed with keywords soon)
-
-
 ## Admin
 Admin tools are for typical business administration, but we focus extra on 5S & communication.  This particular labeler choice is important because it's sold in high volume globally.  It prints incredibly fast and reliably and you can find many cheap distributors of compatible sticker-label-spools.  The downside is Dymo's upgrade from model 450 included addition of an RFID tracking sensor that attempts to lock-down the printer for pricey dymo-only spools.  It's one of the only items that has a performance good enough to tolerate nasty business antics as noted.
 
@@ -24,8 +13,9 @@ Admin tools are for typical business administration, but we focus extra on 5S & 
 - ![epson scanner](img/img_epsonScanner.jpg)
 - ![brother labeler, portable](img/img_brotherLabeler.jpg)
 - ![scotch laminator](img/img_scotchLaminator.jpg)
+- ![placeholder](img/img_placeHolder.jpg)
 
-## Software
+### Software
 Information about softwares for the processes in OpenLabProject.  Goal: to focus on the applications which have served for many years.
 
 **Top Applications**
@@ -52,14 +42,15 @@ To access a full PDF List of Preferred Softwares, [click here](https://github.co
 ![preview of software list](img/img_softwares1.jpg)
 
 
-## Printing
+## Key Tools
+
+### 3D_Print
 The 3D printing toolset is focused on reliability over versatility.  This is a setup for ABS Printing, the main material for all the functional example parts.  There are 3 identical printers, Flashforge Creator Pro, stacked vertically on a shelf.  In 2026 I examined the new generation of printers and bought the Flashforge AD5M Pro (around $550) and it is full of features and seems very robust.
 
 **recommended printer**
 My recommended 3D printer as of 2025 is the flashforge [Adventurer 5M Pro](https://amzn.to/3J1W3KO) due to Flashforge's good reputation, metal frame, enclosure for thermal stability, and balanced overall performance.
 
-## Key Tools
-
+### Misc
 Tools which should last a lifetime, apply to all projects, base-level lab equipment.  These are useful regardless of what type of work you will do - electronics, wood, metal fab, etc.
 
 | Item                | Link                                 | Note       |
@@ -89,8 +80,26 @@ _Mention of supplies which are used for many different projects, at the immediat
 * fasteners bin, magnetic such as (craftsman 2pack $20) [on amazon](https://amzn.to/4rqCXyI) - have a magnetic base for storage & retaining screws from an assembly/disassembly stage.
 * cloth-backed sandpaper rolls, dispenser, 5 grits, 6 meters [on amazon for $16](https://amzn.to/4s8vbtF)
 
-# Supplies
-Let's differentiate supplies from tools.  Description of supplies is as follows:
+**Screwdrivers**<br />
+Screwdrivers for electronics take many forms but **three recommended models suit all electronics** needs in the lab:
+* Westward precison drivers of sizes PH0, PH1, and 2.5mm slotted.  Part No's listed in table below
+* Get the [printable driver holder](https://grabcad.com/library/mount_dr-1) for these models.
+* See [Short video on problem & solution](https://youtube.com/shorts/PzjQzdwQE60)
+* Shaft fitment is limited to 3.2mm - for larger shafts, drill out the hole for fitment.
+
+| SIZE  |   PH0  |     PH1  |    SLOTTED |
+| ----- | ------- | -------- | --------- | 
+| PN      | 401L54  | 401L55 |  401L71 |
+| SHAFT   | 3.2mm	  |4.0mm   |2.5mm  |
+| Pricing |	1.96    | 1.93   | 2.28  |
+
+- ![image recommended products](img/tools_drivers1.jpg)
+- ![image mountDR 1](img/tools_drivers2.jpg)
+- ![image mountDR 2](img/tools_drivers3.jpg)
+
+
+## Supplies
+Let's differentiate supplies from tools.  What are supplies?
 
 **Supplies are**
 ~ consumable items that pair with tools (ie, rivets for rivet gun)
@@ -114,8 +123,8 @@ This polyethylene tubing is used in hundreds of ways in the lab - it's a constan
 A note on Metric preference: I prefer all materials to come in metric, but this material sometimes accomodates both metric and imperial couplings.   Both items have been found to seal with the new push-to-connect fittings for pneumatics and water systems, The smaller 1/4in size is a match for many 6mm fittings.  Soon I hope to offer documentation about the collection of fittings in OpenLab for all plumbing projects, with the economical and high-performing collection of valves and parts that are compatible.
 
 The two sizes used most often are
-* larger [tubing, 3/8 in on amazon](https://amzn.to/3YCALYw) (this is the product I use as of 2026) at $11 per 25ft
-* buy smaller [tubing, 1/4in on amazon](https://amzn.to/49BKKSG) (smaller version) at $14 per 40 ft
+* order [larger tubing, 3/8 in on amazon](https://amzn.to/3YCALYw) (this is the product I use as of 2026) at $11 per 25ft
+* order [smaller tubing, 1/4in on amazon](https://amzn.to/49BKKSG) (smaller version) at $14 per 40 ft
 
 
 Below, find some linked photos from the product page:
@@ -152,68 +161,8 @@ My favorite tapes, in one video. Dated 2024.09. The applications are for nearly 
 | thread seal, PTFE       | https://amzn.to/3z49ipv |
 | wire harness            | https://amzn.to/3AVHlAu |
 
-## Bins
-**See-through Storage** are chosen strategically and they are Sterilite Clearview bins, which have been distributed for over a decade without changes and they appear at Target as well as industrial distributors.  Supplies to be grouped in a smaller space, the zipper pouch (like pencil bag) are useful, with hooks that allow hanging
 
-* Sterilite [6quart 12 pack on Amazon](https://amzn.to/3ZuMvfY) for $42
-* Sterilite [15-quart 12 pack on Amazon](https://amzn.to/3ZuMvfY) for $53
-* Pouches, [zipper pouch 6-pack](https://amzn.to/3MADyie) for $10
-
-See the linked product images below for sterilite clearview bins, and the economical "pencil pouch" zippered bags.
-
-- ![image 15 quart dimensions](img/storage_sterilite6.jpg)
-- ![image sterilite 15 quart dimensions](img/storage_sterilite15.jpg)
-- ![image see-through zip bags](img/storage_zipbag.jpg)
-
-The next photos show all of the most common bin types in the lab.  These include small divided clear bins all the way to the large storage tote with handles and lid integrated.
-
-- ![bins1, prolatch boxes hanging](img/lab_bins1.jpg)
-- ![bins1, sterilite bins](img/lab_bins2.jpg)
-- ![bins1, divider bin](img/lab_bins3.jpg)
-- ![bins1, keepBox](img/lab_bins4.jpg)
-- ![bins size chart](img/lab_binsChart.jpg)
-- ![placeholder](img/img_placeHolder.jpg)
-
-**Divider Bins** are non-consumer products, only found at industrial suppliers. These are used for more critical inventory storage than the clearview selections.
-
-See [Divider Bin on GrabCAD](https://grabcad.com/library/divider-bin-1) to jump straight to my CAD models, true to the measured dimensions. These designs are intended for design of mating parts such as bin racks, and covers.  The upload includes more photos and design notes.
-
-The bins deserve a dedicated section since these are part of several projects, and multiple labs.  Each bin is usually $15 each or higher, but they're industrial and intended to last forever.  Options are available at many reputable distributors for the following options:
-* transparent top covers that are load-bearing
-* interlocking dividers in gray and black
-* Electrostatic dissipating variants, with grounding connector
-
-Here are three different suppliers that have near-matching bin dimensions.  They are compatible enough to stack on one another, but you may measure more closely in order to design your own covers and dividers.  We have ordered and validated the ones from Grainger and Uline.  They're also offered at McMaster (we have not compared this option) and the Lewisbins brand is listed here because the company was kind enough to publish accurate CAD models that we can work with.
-
-**[Distributors]**
-* BRAND  | Distributor | Link
-* Akro-Mils | Grainger | [product](https://www.grainger.com/product/AKRO-MILS-Divider-Box-2RV37)
-* Uline | Uline | [product](https://www.uline.com/Product/Detail/S-16976GR/Plastic-Bins/Divider-Box-15-x-9-x-6-Gray)
-* LewisBins | Global Industrial | [bin product](https://www.globalindustrial.com/p/16-1-2-x-10-7-8-x-6-lewisbins-divider-box-light-blue)
-* LewisBins | Global Industrial | [lid product](https://www.globalindustrial.com/p/grid-wall-bin-stackable-11)
-
-- ![divider bins usecase](img/img_dividerBin1.jpg)
-- ![divider bins image 1](img/img_dividerBin2.jpg)
-- ![divider bins image 2](img/img_dividerBin3.jpg)
-
-**Latching Bins**
-
-These clear, latching boxes store small parts that populate all of the hardware in our designs.  One bin holds all of the M5 fasteners, another bin for all M2.5 and M3 fasteners, and so on. One bin has as many as 50 different unique components. The M5 Hardware bin will have the machine screw, washer, and nut all ready to pick at a glance. One latching bin should have every different component type but not a huge quantity of any part.  If the fasteners are sourced in a pack of 100, there maybe overflow from its place in the latching bin.  Overflow of hardware gets moved to a "storage" position in the larger, opaque divider bins. 
-
-Each latching bin then holds a full category of parts and half of them are stored flat and upright while the remaining ones can hang.  Vertical hanging is reserved for lighter collections of parts like fuses or plastic retaining clips, so the hanging hooks are not overloaded nor the pegboard hooks.  Lifting a heavy bin from a hanging position is too likely to cause drops and spills.  The small type (3500 series) have smaller overall dimensions and they are always hung vertically on a pegboard hook.
-
-* Plano Prolatch 3500 Series, 5x9 inches.
-* Plano Prolatch 3700 Series, 9x14 inches.
-* Metabin fits inside the plano 3700 [download CAD on grabCAD](https://grabcad.com/library/metabin-1)
-* for info on variations & corresponding Part Numbers [in the Plano Boxes PDF](docs/Data_PlanoBoxes_2025.pdf)
-
-Images below show the Metabin inside Plano Bins.  The metabin has a shallow and deep variant (16cc) with the volume reduced for accessing tiny parts.
-
-- ![metabin linked image 1](https://s3.amazonaws.com/gc-p/screenshots/pics/6f215ba1d985a67beb819b330a23f2cd/original.jpg)
-- ![metabin linked image 2](https://s3.amazonaws.com/gc-p/screenshots/pics/1c6784548996bf833d6a8646bc0410ae/original.jpg)
-- ![metabin linked image 3](https://s3.amazonaws.com/gc-p/screenshots/pics/d896dccbb0596a9fca2cabea14d0ca46/original.jpg)
-
-## Soldering
+### Soldering
 _last updated 2025.05_
 Tools found in the soldering station are tabulated below.  This selection is recommended since the tools were good value and have worked for two years or more.   Some devices are not obvious, such as my custom helping hands made from the camera clamp and the 123 block. The clamp can be removed at any time from the 123 block and used separately.  The adjustable LED camera light also mounts on any 1/4-20 thread which is found in camera tripods and devices for microphone, lighting, and accessories for filming.
 
@@ -249,14 +198,16 @@ My recommendation is to seek these properties:  To heat up in less than 30 secon
 
 I'm beginning a section as of 2025.05 to post info about the PC workstation for CAD modeling and other compute-intensive tasks.  PCpartpicker is a great place to document our community builds & assist each other in upgrades. The build linked above is partly outdated, but good to access thumbnails & specs for key parts.
 
-* Access the [Workstation Build Documentation](https://github.com/davidmalawey/openLab/blob/d839ea37850840eac63a235f3625c2dce64fc0c0/docs/2025_PC-Build.pdf) in PDF.
-* Visit [PCpartPicker](https://pcpartpicker.com/list/3Jy6Fg) to see my last documented build. 
+* Access [Workstation Build Documentation](https://github.com/davidmalawey/openLab/blob/d839ea37850840eac63a235f3625c2dce64fc0c0/docs/2025_PC-Build.pdf) in PDF.
+* Visit [PCpartPicker Online](https://pcpartpicker.com/list/3Jy6Fg) to see my last documented build. 
 
 - ![image of PC workstation](img/img_pcBuild1.jpg)
 - ![pc image 2](img/img_pcBuild2.jpg)
 - ![pc image 3](img/img_pcBuild3.jpg)
 - ![pc image 3](img/img_pcBuild4.jpg)
 - ![pc data preview](img/img_pcBuild5.jpg)
+
+The above images of the PC build at different stages.  One big lesson was the removal of the big fancy RTX2060, a high performance video card for graphics, in favor of the AMD Radeon WX4100 card, a purpose-built GPU for professional CAD design.  This selection reduces cost, reduces power consumption, and improves performance by large margins for CAD modeling.  One image depicts the PC case with an included small monitor (I tried it out for a few months) which is sold as a photography display, and can easily source power from the 12v bus on the PC power supply.  For some time this monitor was used to display PC performacne metrics or CAD rendering status.  In the long term it was not necessary.  See also a simple neat deskspace for designing 3D models in our prototyping workflow.
 
 **Recommended PC Components from My Build (updated 2025.05)**
 Half of these parts I gathered overseas or at brick-and-mortar stores but I've collected amazon links for the matching parts to share.  If you use my affiliate links, it helps generate a small revenue.
@@ -282,18 +233,18 @@ Half of these parts I gathered overseas or at brick-and-mortar stores but I've c
 
 A mix of tools and supplies for safety, PPE, and first aid.  Note safety glasses are color coded so when one pair is assigned to a station, it becomes the color allocated to belong there.  
 
-| Item                | Link |
-| ------------------- | -------------------------------------------------- |
-| DIN CUTTER          | [amazon din cutter](https://amzn.to/437Bm7Z) |
-| Headphones          | [runolim headphones $20](https://amzn.to/3RFOOJ2) |
-| alcohol wipes       | [alcohol wipes $6](https://amzn.to/3RFOOJ2) |
+| Item                | Link                                          |
+| ------------------- | --------------------------------------------- |
+| Safety Heaphones    | [ProCase $12 Amazon](https://amzn.to/4ciEDWf) |
+| ANC Headphones      | [runolim headphones $20](https://amzn.to/3RFOOJ2) |
+| alcohol wipes       | [alcohol wipes $6](https://amzn.to/3RFOOJ2)   |
 | safety glasses      | [colored safety glasses $14](https://amzn.to/42pCrWB) |
-| fume extractor      | [amazon $30](https://amzn.to/4qMpkZX) |
-| xytronic fume extr  | [amazon $60](https://amzn.to/4rCM6nB) |
+| fume extractor      | [amazon $30](https://amzn.to/4qMpkZX)         |
+| xytronic fume extr  | [amazon $60](https://amzn.to/4rCM6nB)         |
 
-These particular safety glasses are recommended for their color-coding.  They come in a pack of around 12 with 6 colors.  So, we designate a slot at each workstation (soldering, cutting, grinding) where the glasses ought to be used.  Then we mark the slot with the same marking, so they return to their space.  For hanging situations, there's a simple trick with a paperclip and an M2.5 fastener.  (will post a short video to include).
+These particular safety glasses are recommended for their color-coding. They come in a pack of around 12 with 6 colors.  So, we designate a slot at each workstation (soldering, cutting, grinding) where the glasses ought to be used.  Then we mark the slot with the same marking, so they return to their space.  For hanging situations, there's a simple trick with a paperclip and an M2.5 fastener.  (will post a short video to include).
 
-The noise cancelling headphones are more fantastic than expected.  When running a vacuum or high-powered tool, these inexpensive headphones do a marvelous job of cancelling steady, high pitched noise.  At only $20, they compete with regular passive headphones but the comfort is far higher.  For ordinary protective headsets, the padding is more firm and the spring-force is much higher, to create a seal against the head.  But these units have just a gentle squeeze and are so much more enjoyable to wear.  Sometimes I forget to take them off.
+Note that the ANC (active noise cancelling) headphones are **chosen for comfort** rather than safety.  What is the use case?  Many tools like the jigsaw or vacuum generate noise but they are not a safety concern.  From personal experience, activating the noise cancellation enhances focus and precision for my work. The level of quiet was more fantastic than expected. When running a vacuum or high-powered tool, these inexpensive headphones do a marvelous job of cancelling steady, high pitched noise. At only $20, they compete with regular passive headphones but the comfort is far higher. For ordinary protective headsets, the padding is more firm and the spring-force is much higher, to create a seal against the head.  But these units have just a gentle squeeze and are so much more enjoyable to wear.  Sometimes I forget to take them off.
 
 Two fume extractor listed above were compared in the lab and they both perform similarly - the Xytronic brand (purchased 2017) is a high-class brand in electronics labs but the no-name brand (Purchased 2023) seems to offer similar performance and take up less space in the lab, so a low-cost choice is recommended.
 
@@ -301,9 +252,39 @@ Two fume extractor listed above were compared in the lab and they both perform s
 * ![safety glasses image](img/img_safetyHeadphones.jpg)
 * ![alcohol wipes image](img/img_safetyWipes.jpg)
 
-The above images of the PC build at different stages.  One big lesson was the removal of the big fancy RTX2060, a high performance video card for graphics, in favor of the AMD Radeon WX4100 card, a purpose-built GPU for professional CAD design.  This selection reduces cost, reduces power consumption, and improves performance by large margins for CAD modeling.  One image depicts the PC case with an included small monitor (I tried it out for a few months) which is sold as a photography display, and can easily source power from the 12v bus on the PC power supply.  For some time this monitor was used to display PC performacne metrics or CAD rendering status.  In the long term it was not necessary.  See also a simple neat deskspace for designing 3D models in our prototyping workflow.
+In the above images, see the storage setup for each item.  This is just a sample of the safety elements, as documentation is built.  The noise cancelling headphones have a rack, safety glasses reside at the saw, and alcohol wipes bin is open with no top.  The retrieval happens within one second with one hand, enhancing convenience and making them used instead of skipped over.
 
-# Facility
+**PPE**
+_PPE means personal protective equipment.  Gloves are the first topic in PPE as of 2026 April._
+
+The selections of gloves as of 2026 aims to solve a few problems we all face.  What's a durable and effective glove for each type of work?  What is the right glove for chemical resistance and cut resistance?  Prior to 2026 I worked with many glove types for a decade but these are the selections as of April 2026:
+* For mechanical work (general) we want cut resistance, comfort, durability
+* For finer tactile work, we want the thinnest glove with good cut protection, with grip and stretch.
+* For the wash station, we need chemical resistance
+
+This yields 3 kinds of gloves and these selections:
+1) Cut resistant gloves - **Hyflex 11-561**  [Amazon Hyflex 11-561 $13](https://amzn.to/4tYoaMR)
+2) Mechanics gloves - **MCR Safety 919**  [Amazon MCR Safety 964L $25](https://amzn.to/48BSqom)
+3) Chemical gloves, **Showa 719B** or **Honeywell 101V** [Amazon Showa 727 LG 12 pair](https://amzn.to/4chr7Cc)
+_I've included links to the nearest matches for amazon shoppers. To source exact match, go to Grainger.com & input model numbers._
+
+For all selections, we want a glove from a reputable manufacturer, with documented part numbers & preferrably a catalogue of variations - so when a special case arrives we don't start our research over from scratch.  The photos below show an issue with a generic pair of cleaning gloves that appeared after 6 months or so.  The interior surface became degraded.  Without any knowledge of the glove specifications, we can't avoid the chemical or condition that ruins them.  That drives the choice to select a new pair (two options selected to evaluate) which is backed by a datasheet and a respected company.
+
+- ![three glove types](img/lab_gloveTrio.jpg)
+- ![hyflex glove on hand](img/lab_gloveHyflex.jpg)
+- ![MCR mechanics glove detail](img/lab_gloveMCR.jpg)
+
+
+Below, find images of the supporting data for our glove choices.  The gloves used in professional manufacturing are the woven glove types (see first image) which are cut resistant but allow the worker to feel the workpiece being handled, as they are thinner than mechanics gloves.  The second image shows an issue we faced in the lab.  The unbranded glove deteriorated at the inside surface, but we can't review any technical data to learn and make a correction.  This prompts us to upgrade to a professional brand with part number & technical datasheets.  The third photo shows documentation that ships with our MCR Safety branded mechanics gloves, featuring real goat skin.
+
+- ![toyota factory photo with gloves](img/lab_gloveExample.JPG)
+- ![wash gloves problem](img/lab_gloveIssue.jpg)
+- ![glove data tag](img/lab_gloveTag.jpg)
+
+**Gloves Docs**
+What is the SOURCE of the glove choices?  The source is a whole technical evaluation, and it is documented & opened (hence open source). Two documents have been made to record the research for the glove choices.  The [2026_glovesData.pdf](https://github.com/davidmalawey/openLab/blob/9853111826705e9b66870c61e91f93c6116cc60b/docs/2026_glovesData.pdf) holds the research information - queries and alternatives explored with datasheets & variations available. The [2026.04_LabGloves.pdf](https://github.com/davidmalawey/openLab/blob/9853111826705e9b66870c61e91f93c6116cc60b/docs/2026.04_labGlovesData.pdf) document has photos of the four glove models ordered.  This document is where future discovered defects or information can be noted and new choices added.
+
+## Facility
 
 **Air filtration** becomes highly relevant once we have the tools to control it.  Since 2018 (8 years now) I have used two air filter models for the room, HPA300 and HPA200.  Both units have performed fantastically and predictably, and helped me understand air filtration. The benefits are as follows:  
 1) The user can control the power level - the low power setting is quiet and efficient, at about 40 watts and gently performs a continuous circulation of the air.  Larger fans move air with lower RPMs and this is the main benefit of the larger HPA300.  If a chemical is opened or a soldering task emits a lot of smoke, the power can be boosted to medium, high, or TURBO, and quickly eliminate smells in the whole lab in just a few minutes.
@@ -327,6 +308,11 @@ The photos below show my model HPA300 including the front grille removed (tool-f
 
 For the room having 330 square feet (30.5 square meters) and a ceiling of 8 feet (244cm) the main lights are 5 units of LED "shop lights" rated at 5,000 lumens each.  This comes out to 5k lumens for 6 square meters, and I would recommend 1k lumens per square meter. There are two models since one model was discontinued and there is presently no specific recommendation for the lamps models, since these units have not proven to have fantastic longevity. With these main lights and the walls and ceiling painted white, this is enough light that I would recommend the same quantity as a minimum. Then if there will be camerawork and video-shooting, more light is still recommended for the specific area of the video subject.
 
+**Shop Lights Links**
+* Shop lights, 7k Lumen [By Hypertough at Walmart](https://www.walmart.com/ip/Hyper-Tough-7000LM-4Ft-Shop-Light-with-Motion-Sensor-Winged-Day-Light-1PK/1132172978)
+* Shop light 7k Lumen [By JESLED on Amazon](https://amzn.to/4cyEC0r)
+* _The Hypertough I actually installed and the JESLED is my recommended alternative if you shop Amazon, 2 pack for $49._
+
 Two lessons from lighting installations are as follows:
 1) The shop lights can be installed upside-down and oriented at the ceiling to spread the light better in the room, eliminate bright spots for the eyes, and reduce harsh shadows overall.  This is highly recommended.
 2) Some lamps come with pivoting beams so the angle of the lighting can be adjusted, and this is fantastic for arranging the specific spaces.  Also recommended.
@@ -335,3 +321,10 @@ _The below photos show the arrangement of lights in the lab, the lamp end-face w
 - ![shop lights 1](img/lab_lights1.jpg)
 - ![shop lights 2](img/lab_lights2.jpg)
 - ![shop lights 3](img/lab_lights3.jpg)
+
+## Data
+A great number of tools are not yet documented but you can still access the data describing these tools selections, some modifications, notes on special-purpose tools & labels for supplies with instructional info embedded. We want users to have access to exactly the devices & supplies we use in our projects.  In the early stage of this project, I will post documents which contain collections of tools & devices that make up the lab.  In time I hope to raise the accessibility so you can find a specific product label simply with the search function on this page. 
+
+* Get [Tools_Scans_2025](https://github.com/davidmalawey/openLab/blob/a23478e580b18ce3051be14c0ce91f3598161505/docs/2025.06_tools_scans.pdf) PDF with 36 pages of tools labels
+* Get [Tools Scans 2024](https://github.com/davidmalawey/openLab/blob/a23478e580b18ce3051be14c0ce91f3598161505/docs/2024_tools_scans.pdf) PDF with 48 pages of tools labels
+* New scans are ready (2026 April) and getting cleaned up for posting.
